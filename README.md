@@ -16,11 +16,11 @@ Fitur
     Isi struk mencakup informasi pelanggan, informasi pesanan, dan logo aplikasi.
 
 [![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(1).png?raw=true)
-[![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(2).png?raw=true)
-[![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(3).png?raw=true)
-[![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(4).png?raw=true)
-[![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(5).png?raw=true)
-[![ Preview](1(1).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(6).png?raw=true)
+[![ Preview](1(2).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(2).png?raw=true)
+[![ Preview](1(3).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(3).png?raw=true)
+[![ Preview](1(4).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(4).png?raw=true)
+[![ Preview](1(5).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(5).png?raw=true)
+[![ Preview](1(6).png)](https://github.com/bbrsoft/POsV/blob/main/1%20(6).png?raw=true)
 
 Perpustakaan yang Digunakan
 
